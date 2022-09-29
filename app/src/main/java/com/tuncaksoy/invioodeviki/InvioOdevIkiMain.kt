@@ -15,5 +15,5 @@ fun main() {
 
     println("6-Wage: ${invioOdevIki.questionSix(23)}")//6
 
-    println("7-İnvoice: ${invioOdevIki.questionSeven(55)}₺")
+    println("7-İnvoice: ${invioOdevIki.questionSeven(55)}₺")//7
 }
